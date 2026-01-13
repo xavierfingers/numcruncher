@@ -3,5 +3,5 @@
 # How it works
  ```mermaid
   flowchart LR
-  A["User runs program"]->B["Uses algorithm: Euclidean GCD algorithm"]->C["Gets output"]
-```   
+  A["User runs program"]-->B["Uses algorithm: Euclidean GCD algorithm"]-->C["Gets output"]
+```  
