@@ -36,3 +36,4 @@ if choice == "sqrt":
 if choice == "primes":
  n = int(input("Enter limit: "))
  print(f"primes = {prime(n)}") 
+ print(f"Found {len(prime(n))} primes")
